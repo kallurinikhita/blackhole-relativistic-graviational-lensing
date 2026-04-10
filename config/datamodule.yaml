@@ -1,0 +1,3 @@
+_target_: datamodule.surrogateLensingModule
+data_path: dataset.pt
+batch_size: 4

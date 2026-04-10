@@ -1,0 +1,5 @@
+seed: 42
+model:
+  learning_rate: 0.001
+trainer:
+  epochs: 10
