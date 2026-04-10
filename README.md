@@ -74,7 +74,7 @@ blackhole-mvp/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/blackhole-mvp.git
+git clone https://github.com/your-username/blackhole-relativistic-graviational-lensing.git
 cd blackhole-mvp
 ```
 
@@ -208,9 +208,9 @@ This is a **physics-informed visualization system**, not a full GR solver.
 
 I explicitly approximate:
 
-* ✔ weak-field gravitational lensing
-* ✔ surrogate ray deflection
-* ✔ post-processing visualization
+* weak-field gravitational lensing
+* surrogate ray deflection
+* post-processing visualization
 
 I do **NOT** solve:
 
