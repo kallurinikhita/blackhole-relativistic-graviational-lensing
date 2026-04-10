@@ -1,4 +1,4 @@
-# Black Hole MVP: Physics-Informed Neural Rendering of Gravitational Lensing
+# Black Hole MVP: Physics-Informed Neural Rendering of Gravitational Lensing (In progress)
 
 ## Overview
 
